@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Dominik Böhm is a great person
+Dominik Böhm
 
 
