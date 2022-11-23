@@ -108,10 +108,10 @@ logo:
   logo_image_desktop_width: "28px"
   logo_image_mobile_height: "28px"
   logo_image_mobile_width: "28px"
-  show_logo_image_on_mobile: true
-  show_logo_image_on_desktop: true
-  show_logo_text_on_mobile: false
-  show_logo_text_on_desktop: false
+  show_logo_image_on_mobile: false
+  show_logo_image_on_desktop: false
+  show_logo_text_on_mobile: true
+  show_logo_text_on_desktop: true
 
 header: 
   fixed: false
@@ -126,13 +126,13 @@ analytics:
   google_analytics_id: ""
 
 disqus:
-  shortname: "zerostatic" # Your disqus shortcode. leave this blank to disable comments globally
+  shortname: "" # Your disqus shortcode. leave this blank to disable comments globally
 
 mailchimp:
   form_action_url: https://zerostatic.us13.list-manage.com/subscribe/post?u=675276692aebec1c007f8156d&amp;id=3e3da720c2
 
 contact_form: 
-  use_netlify_form: true
+  use_netlify_form: false
   use_formspree_form: false
   formspree_endpoint: https://formspree.io/f/moqyklqv
 
@@ -149,12 +149,12 @@ footer:
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: false
   footer_primary_menu_title: "Projects"
-  footer_secondary_menu_title: "Agency"
+  footer_secondary_menu_title: "Other"
   footer_tertiary_menu_title: ""
 
 bottom:
-  enable_bottom: false # show/hide the entire bottom (below the footer)
+  enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2022 Zerostatic Themes"
+  copyright_text: "© 2022 Dominik Böhm"
 
 category_dir: category
