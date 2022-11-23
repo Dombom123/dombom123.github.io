@@ -53,8 +53,9 @@ defaults:
 
 # SCSS
 sass:
+  sass_dir: _sass
   style: compact
-
+  
 # Excludes
 exclude:
   - Gemfile
