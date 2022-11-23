@@ -6,25 +6,25 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Project Layout 1"
-        icon: "/assets/images/icons/wireframe-7.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
-        description: "Default Project layout"
+      - name: "Donner"
+        # icon: "/assets/images/icons/wireframe-7.svg"
+        # icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
+        description: "Narrative"
         url: /projects/project-1/
-      - name: "Project Layout 2"
-        icon: "/assets/images/icons/wireframe-5.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
-        description: "Right side layout"
+      - name: "Der perfekte Morgen"
+        # icon: "/assets/images/icons/wireframe-5.svg"
+        # icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
+        description: "Narrative"
         url: /projects/project-2/
-      - name: "Project Layout 3"
-        icon: "/assets/images/icons/wireframe-6.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
-        description: "Left side layout"
+      - name: "Stadtflucht"
+        # icon: "/assets/images/icons/wireframe-6.svg"
+        # icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
+        description: "Documentary"
         url: /projects/project-3/
-      - name: "Project Layout 4"
-        icon: "/assets/images/icons/wireframe-8.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
-        description: "Top layout"
+      - name: "Zauberey Halber"
+        # icon: "/assets/images/icons/wireframe-8.svg"
+        # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
+        description: "Documentary"
         url: /projects/project-4/
   # - name: Blog
   #   url: /blog/
