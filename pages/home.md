@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Portfolio 2022"
-description: "Showcase of my projects, work and portfolio."
+title: "Home"
+# description: "Showcase of my projects, work and portfolio."
 meta_description: ""
 meta_title: Dominik Böhm
 subscribe: false
