@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/dombom123.github.io" # This should be the name of your repo
+baseurl: "" # This should be the name of your repo
 url: ""
 permalink: pretty
 markdown: kramdown
