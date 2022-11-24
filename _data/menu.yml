@@ -38,13 +38,13 @@ main:
   
 
 footer_secondary:
-  - name: "Project Layout 1"
+  - name: "Donner"
     url: /projects/project-1/
-  - name: "Project Layout 2"
+  - name: "Der Perfekte Morgen"
     url: /projects/project-2/
-  - name: "Project Layout 3"
+  - name: "Stadtflucht"
     url: /projects/project-3/
-  - name: "Project Layout 4"
+  - name: "Zauberey Halber"
     url: /projects/project-4/
 
 # footer_secondary:

@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Hello!"
-description: "This is a showcase of my projects as Director of Photography for narrative and documentary films."
+title: "Hello! This is my <strong>Portfolio.</strong>"
+description: "Here you can find a showcase of my work as a <strong>Director of Photography</strong> for narrative and documentary films, music videos and creative corporate content."
 meta_description: ""
 meta_title: Dominik Böhm
 subscribe: false
