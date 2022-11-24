@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: "Hello! This is my <strong>Portfolio.</strong>"
-description: "I work as a <strong>Director of Photography</strong> for narrative and documentary films, music videos and creative corporate content. Get in <strong>touch!</strong>"
-meta_description: ""
-meta_title: Dominik Böhm
+title: "Hi! This is my <strong>Portfolio.</strong>"
+description: "I work as a <strong>Director of Photography</strong> and <strong>Creative Producer</strong> for narrative and documentary films, music videos and corporate content. Get in <strong>touch!</strong>"
+meta_description: "Dominik Böhm is a DP, Director from Berlin"
+meta_title: Dominik Böhm Director of Photography
 subscribe: false
 
 projects:

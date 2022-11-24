@@ -6,9 +6,9 @@ date: 2022-03-01
 weight: 2
 thumbnail: "/assets/images/gen/projects/sf_1_thumb.jpeg"
 image: "/assets/images/gen/projects/project-3-1.webp"
-client: "Personal Project"
+client: "Documentary"
 categories: ["Documentary"]
-role: "Videoproducer"
+role: "Director of Photography"
 gallery:
   - image: "/assets/images/gen/projects/sf_1.png"
   - image: "/assets/images/gen/projects/sf2.png"

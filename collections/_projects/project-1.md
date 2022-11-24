@@ -10,7 +10,8 @@ categories: ["Kurzfilm"]
 client: "Berliner Hochschule für Technik"
 role: "Director of Photography"
 gallery:
-  - image: "/assets/images/gen/projects/donner-1-1.png"
+  - image: "/assets/images/gen/projects/donner-2-1.webp"
+  - image: "/assets/images/gen/projects/donner-2-2.webp"
   - image: "/assets/images/gen/projects/donner-1-2.png"
   - image: "/assets/images/gen/projects/donner-1-3.png"
   - image: "/assets/images/gen/projects/donner-1-4.png"
