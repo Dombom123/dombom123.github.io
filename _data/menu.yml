@@ -26,6 +26,11 @@ main:
         # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "Documentary"
         url: /projects/project-4/
+      - name: "Music Videos"
+        # icon: "/assets/images/icons/wireframe-8.svg"
+        # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
+        description: ""
+        url: /musicvideos/
   # - name: Blog
   #   url: /blog/
   #   weight: 2
@@ -46,6 +51,8 @@ footer_secondary:
     url: /projects/project-3/
   - name: "Zauberey Halber"
     url: /projects/project-4/
+  - name: "Music Videos"
+    url: /musicvideos/
 
 # footer_secondary:
 #   - name: Blog

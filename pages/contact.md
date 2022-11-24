@@ -1,9 +1,9 @@
 ---
 layout: contact
-# title: Contact
+title: Contact
 body_classes: page-contact
 ---
 ## Get in touch!
 
-- **Email:** hello@dominikboehm.com
+- **Email:** hello[at]dominikboehm.com
 - **Location:** Berlin
