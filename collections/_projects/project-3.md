@@ -11,9 +11,9 @@ categories: ["Documentary"]
 role: "Director of Photography"
 gallery:
   - image: "/assets/images/gen/projects/sf_1.png"
-  - image: "/assets/images/gen/projects/sf2.png"
-  - image: "/assets/images/gen/projects/sf3.png"
-  - image: "/assets/images/gen/projects/sf4.png"
+  - image: "/assets/images/gen/projects/sf7.png"
+  - image: "/assets/images/gen/projects/sf8.png"
+  - image: "/assets/images/gen/projects/sf9.png"
   - image: "/assets/images/gen/projects/sf5.png"
   - image: "/assets/images/gen/projects/sf6.png"
 ---
