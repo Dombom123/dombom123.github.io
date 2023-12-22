@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-top
 title: "Zauberey Halber"
 description: ""
 date: 2021-12-20
