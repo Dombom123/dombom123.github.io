@@ -5,6 +5,10 @@ date: 2022-10-28T15:15:34+10:00
 permalink: "/musicvideos/"
 # description: "Director of Photography for Music Videos"
 ---
+
+## OKKUPADO - GTFO (Official Music Video)
+{% include framework/shortcodes/youtube.html id='xZCmNK-Kh7E' %}
+
 ## OKKUPADO - TAKE ME BACK (Official Music Video)
 {% include framework/shortcodes/youtube.html id='GPbdpBOIf8o' %}
 
