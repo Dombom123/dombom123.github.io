@@ -1,5 +1,5 @@
 ---
-layout: project-top # alternative layouts: project, project-left, project-right, project-top
+layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Donner"
 description: "Ein Kurzfilm über die Trauer eines Kindes und die Kraft der Fantasie."
 date: 2022-01-01
