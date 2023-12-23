@@ -7,7 +7,7 @@ weight: 1
 thumbnail: "/assets/images/gen/projects/dpm-2-2.png"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Kurzfilm"]
-client: "Berliner Hochschule für Technik"
+client: "Narrative"
 role: "Director of Photography"
 gallery:
   - image: "/assets/images/gen/projects/dpm-2-1.png"
