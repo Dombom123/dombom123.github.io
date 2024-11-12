@@ -5,7 +5,7 @@ description: ""
 date: 2024-12-20
 weight: 4
 thumbnail: "/assets/images/gen/projects/kk-l.jpg"
-image: "/assets/images/gen/projects/project-4-1.webp"
+image: "/assets/images/gen/projects/kk-l.jpg"
 client: "Drive Beta x DAK"
 categories: ["TV"]
 role: "Director of Photography"
