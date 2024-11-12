@@ -8,14 +8,14 @@ meta_title: Dominik Böhm Director of Photography
 subscribe: false
 
 projects:
-  heading: ""
+  heading: "Test"
   sub_heading: ""
   limit: 8
   sort: weight # date | weight
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""
-  columns: 3 # 1 | 2 | 3 | 4
+  columns: 4 # 1 | 2 | 3 | 4
 
 # posts:
 #   heading: "Recent Blog Posts"
