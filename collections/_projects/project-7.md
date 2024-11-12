@@ -3,7 +3,7 @@ layout: project
 title: "Körper Krimi"
 description: ""
 date: 2024-12-20
-weight: 4
+weight: 3
 thumbnail: "/assets/images/gen/projects/kk-l.jpg"
 image: "/assets/images/gen/projects/kk-l.jpg"
 client: "Drive Beta x DAK"

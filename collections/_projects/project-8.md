@@ -3,7 +3,7 @@ layout: project
 title: "Deutschland, warum bist du so?"
 description: ""
 date: 2024-12-20
-weight: 4
+weight: 2
 thumbnail: "/assets/images/gen/projects/dwbds-c.png"
 image: "/assets/images/gen/projects/project-4-1.webp"
 client: "Drive Beta x ZDF"

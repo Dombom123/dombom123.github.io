@@ -3,7 +3,7 @@ layout: project-left
 title: "Stadtflucht"
 description: "Experimental Documentary at Sternenpark Havelland"
 date: 2022-03-01
-weight: 2
+weight: 7
 thumbnail: "/assets/images/gen/projects/sf_1_thumb.jpeg"
 image: "/assets/images/gen/projects/project-3-1.webp"
 client: "Documentary"

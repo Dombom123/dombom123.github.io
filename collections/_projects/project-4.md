@@ -3,7 +3,7 @@ layout: project
 title: "Zauberey Halber"
 description: ""
 date: 2021-12-20
-weight: 4
+weight: 6
 thumbnail: "/assets/images/gen/projects/hex-5.png"
 image: "/assets/images/gen/projects/project-4-1.webp"
 client: "Documentary"

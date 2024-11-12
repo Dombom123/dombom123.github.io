@@ -3,7 +3,7 @@ layout: project # alternative layouts: project, project-left, project-right, pro
 title: "Donner"
 description: "Ein Kurzfilm über die Trauer eines Kindes und die Kraft der Fantasie."
 date: 2022-01-01
-weight: 3
+weight: 6
 thumbnail: "/assets/images/gen/projects/donner-1-5_thumb2.png"
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: ["Kurzfilm"]
