@@ -2,9 +2,9 @@
 layout: project
 title: "Buy Better"
 description: ""
-date: 2021-12-20
+date: 2024-12-20
 weight: 4
-thumbnail: "/assets/images/gen/projects/bb-l.png"
+thumbnail: "/assets/images/gen/projects/bb-l.jpg"
 image: "/assets/images/gen/projects/project-4-1.webp"
 client: "Drive Beta x SWR"
 categories: ["TV"]

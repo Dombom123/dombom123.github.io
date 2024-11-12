@@ -2,9 +2,9 @@
 layout: project
 title: "Körper Krimi"
 description: ""
-date: 2021-12-20
+date: 2024-12-20
 weight: 4
-thumbnail: "/assets/images/gen/projects/kk-l.png"
+thumbnail: "/assets/images/gen/projects/kk-l.jpg"
 image: "/assets/images/gen/projects/project-4-1.webp"
 client: "Drive Beta x DAK"
 categories: ["TV"]

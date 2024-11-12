@@ -2,7 +2,7 @@
 layout: project
 title: "Deutschland, warum bist du so?"
 description: ""
-date: 2021-12-20
+date: 2024-12-20
 weight: 4
 thumbnail: "/assets/images/gen/projects/dwbds-c.png"
 image: "/assets/images/gen/projects/project-4-1.webp"
