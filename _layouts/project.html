@@ -55,9 +55,18 @@ body_classes: page-project
       <div class="project-image">
         <div class="gallery gallery-2">
           <div class="gallery-sizer"></div>
-        {% for item in page.gallery limit: limit %}
+          {% for item in page.gallery limit: limit %}
           <div class="gallery-item">
-            <div class="gallery-image"><img width="615" height="400" src="{{ item.image | relative_url }}"/></div>
+            <div class="gallery-image">
+              <img 
+                width="615" 
+                height="400" 
+                src="{{ item.image | relative_url }}"
+                loading="lazy"
+                decoding="async"
+                alt="{{ page.title }}"
+              />
+            </div>
             <div class="gallery-caption">{{ item.caption }}</div>
           </div>
         {% endfor %}

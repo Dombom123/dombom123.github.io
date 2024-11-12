@@ -15,9 +15,18 @@
 <div class="card card-project card-{{ style }} {% if thumbnail %}card-has-thumbnail{% endif %} {% if icon or fa_icon %}card-has-icon{% endif %}">
 
   {% if thumbnail %}
-    <div class="card-thumbnail {% if thumbnail_size %}card-thumbnail-{{ thumbnail_size }}{% endif %}">
-      <a href="{{ url | relative_url }}"><img alt="{{ title }}" src="{{ thumbnail | relative_url }}"/></a>
-    </div>
+  <div class="card-thumbnail {% if thumbnail_size %}card-thumbnail-{{ thumbnail_size }}{% endif %}">
+    <a href="{{ url | relative_url }}">
+      <img 
+        alt="{{ title }}" 
+        src="{{ thumbnail | relative_url }}"
+        loading="lazy"
+        decoding="async"
+        width="600"
+        height="338"
+      />
+    </a>
+  </div>
   {% endif %}
 
   <div class="card-content">
