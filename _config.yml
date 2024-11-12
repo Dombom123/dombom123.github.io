@@ -55,7 +55,13 @@ defaults:
 sass:
   sass_dir: _sass
   style: compact
-
+# Add to _config.yml
+webp:
+  enabled: true
+  quality: 75
+  preset: default
+  img_dir: ["/assets/images"]
+  formats: [".jpeg", ".jpg", ".png"]
 # Excludes
 exclude:
   - Gemfile
