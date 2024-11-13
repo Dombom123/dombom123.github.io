@@ -17,5 +17,6 @@ gallery:
   - image: "/assets/images/gen/projects/dwbds8.webp"
   - image: "/assets/images/gen/projects/dwbds10.webp"
   - image: "/assets/images/gen/projects/dwbds9.webp"
+  - image: "/assets/images/gen/projects/dwbds5.webp"
 ---
 
