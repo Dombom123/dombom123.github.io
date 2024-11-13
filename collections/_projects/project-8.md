@@ -14,7 +14,8 @@ gallery:
   - image: "/assets/images/gen/projects/dwbds1.webp"
   - image: "/assets/images/gen/projects/dwbds6.webp"
   - image: "/assets/images/gen/projects/dwbds4.webp"
-  - image: "/assets/images/gen/projects/dwbds5.webp"
-  - image: "/assets/images/gen/projects/dwbds2.webp"
+  - image: "/assets/images/gen/projects/dwbds8.webp"
+  - image: "/assets/images/gen/projects/dwbds10.webp"
+  - image: "/assets/images/gen/projects/dwbds9.webp"
 ---
 
