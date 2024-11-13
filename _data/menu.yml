@@ -7,13 +7,13 @@ main:
     weight: 2
     child:
       - name: "Deutschland, warum bist du so?"
-        description: "Documentary"
-        url: /projects/project-1/
+        description: "Doku Serie"
+        url: /projects/project-8/
       - name: "Der Perfekte Morgen"
-        description: "Narrative"
+        description: "Kurzfilm"
         url: /projects/project-2/
       - name: "Körper Krimi"
-        description: "Documentary"
+        description: "Online Format"
         url: /projects/project-7/
       - name: "Bin ich schön?"
         description: "Documentary"
