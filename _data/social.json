@@ -13,5 +13,10 @@
     "title": "Linkedin",
     "fa_icon": "fab fa-linkedin",
     "url": "https://www.linkedin.com/in/dominikboehm/"
+  },
+  {
+    "title": "Crew-United",
+    "fa_icon": "fab fa-imdb",
+    "url": "https://www.crew-united.com/de/Dominik-Boehm_450899.html"
   }
 ]
