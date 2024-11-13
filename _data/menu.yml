@@ -6,51 +6,35 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Donner"
-        # icon: "/assets/images/icons/wireframe-7.svg"
-        # icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
-        description: "Narrative"
+      - name: "Deutschland, warum bist du so?"
+        description: "Documentary"
         url: /projects/project-1/
-      - name: "Der perfekte Morgen"
-        # icon: "/assets/images/icons/wireframe-5.svg"
-        # icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
+      - name: "Der Perfekte Morgen"
         description: "Narrative"
         url: /projects/project-2/
-      - name: "Stadtflucht"
-        # icon: "/assets/images/icons/wireframe-6.svg"
-        # icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
+      - name: "Körper Krimi"
         description: "Documentary"
-        url: /projects/project-3/
-      - name: "Zauberey Halber"
-        # icon: "/assets/images/icons/wireframe-8.svg"
-        # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
+        url: /projects/project-7/
+      - name: "Bin ich schön?"
         description: "Documentary"
-        url: /projects/project-4/
+        url: /projects/project-10/
       - name: "Music Videos"
-        # icon: "/assets/images/icons/wireframe-8.svg"
-        # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: ""
         url: /musicvideos/
-  # - name: Blog
-  #   url: /blog/
-  #   weight: 2
-  # - name: About
-  #   url: /about/
-  #   weight: 3
   - name: Contact
     url: /contact/
     weight: 4
-  
+
 
 footer_secondary:
-  - name: "Donner"
+  - name: "Deutschland, warum bist du so?"
     url: /projects/project-1/
   - name: "Der Perfekte Morgen"
     url: /projects/project-2/
-  - name: "Stadtflucht"
-    url: /projects/project-3/
-  - name: "Zauberey Halber"
-    url: /projects/project-4/
+  - name: "Körper Krimi"
+    url: /projects/project-7/
+  - name: "Bin ich schön?"
+    url: /projects/project-10/
   - name: "Music Videos"
     url: /musicvideos/
 
