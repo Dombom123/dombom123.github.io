@@ -4,17 +4,17 @@ title: "Deutschland, warum bist du so?"
 description: ""
 date: 2024-08-17
 weight: 2
-thumbnail: "/assets/images/gen/projects/dwbds-c.png"
+thumbnail: "/assets/images/gen/projects/dwbds-c.webp"
 image: "/assets/images/gen/projects/project-4-1.webp"
 client: "Drive Beta x ZDF"
 categories: ["TV"]
 role: "Director of Photography"
 link: "https://www.youtube.com/watch?v=lRhepTqwjIs&t=74s"
 gallery:
-  - image: "/assets/images/gen/projects/dwbds1.png"
-  - image: "/assets/images/gen/projects/dwbds6.png"
-  - image: "/assets/images/gen/projects/dwbds4.png"
-  - image: "/assets/images/gen/projects/dwbds5.png"
-  - image: "/assets/images/gen/projects/dwbds2.png"
+  - image: "/assets/images/gen/projects/dwbds1.webp"
+  - image: "/assets/images/gen/projects/dwbds6.webp"
+  - image: "/assets/images/gen/projects/dwbds4.webp"
+  - image: "/assets/images/gen/projects/dwbds5.webp"
+  - image: "/assets/images/gen/projects/dwbds2.webp"
 ---
 

@@ -4,7 +4,7 @@ title: "Donner"
 description: "Ein Kurzfilm über die Trauer eines Kindes und die Kraft der Fantasie."
 date: 2022-01-01
 weight: 6
-thumbnail: "/assets/images/gen/projects/donner-1-5_thumb2.png"
+thumbnail: "/assets/images/gen/projects/donner-1-5_thumb2.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: ["Kurzfilm"]
 client: "Narrative"
@@ -12,11 +12,11 @@ role: "Director of Photography"
 gallery:
   - image: "/assets/images/gen/projects/donner-2-1.webp"
   - image: "/assets/images/gen/projects/donner-2-2.webp"
-  - image: "/assets/images/gen/projects/donner-1-2.png"
-  - image: "/assets/images/gen/projects/donner-1-3.png"
-  - image: "/assets/images/gen/projects/donner-1-4.png"
-  - image: "/assets/images/gen/projects/donner-1-5.png"
-  - image: "/assets/images/gen/projects/donner-1-6.png"
+  - image: "/assets/images/gen/projects/donner-1-2.webp"
+  - image: "/assets/images/gen/projects/donner-1-3.webp"
+  - image: "/assets/images/gen/projects/donner-1-4.webp"
+  - image: "/assets/images/gen/projects/donner-1-5.webp"
+  - image: "/assets/images/gen/projects/donner-1-6.webp"
 ---
 
 
