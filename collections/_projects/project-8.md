@@ -8,7 +8,7 @@ thumbnail: "/assets/images/gen/projects/dwbds-c.webp"
 image: "/assets/images/gen/projects/project-4-1.webp"
 client: "Drive Beta x ZDF"
 categories: ["Doku-Serie"]
-role: "Director of Photography // Studio-Moderation"
+role: "Director of Photography Studio-Moderation"
 link: "https://www.youtube.com/watch?v=lRhepTqwjIs&t=74s"
 gallery:
   - image: "/assets/images/gen/projects/dwbds1.webp"
