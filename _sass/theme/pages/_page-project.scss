@@ -5,18 +5,18 @@
       letter-spacing: -2px;
       line-height: 1.2;
       font-weight: 700;
-      margin-bottom: 10px;
+      margin-bottom: 15px;
       @include media-breakpoint-up(md) {
         font-size: 48px;
       }
     }
   }
   .project-intro {
-    font-size: 1.1rem;
+    font-size: 18px;
     line-height: 1.5;
-    margin: 1rem 0 2rem 0;  // Space after title and before categories
-    color: var(--color-base-text-2);
-    max-width: 90%;  // Optional: prevents lines from getting too long
+    margin: 0 0 25px 0;
+    color: var(--color-base-text);
+    max-width: 90%;
   }
   .project-categories {
     margin-bottom: 40px;
@@ -25,6 +25,7 @@
       font-weight: 600;
     }
   }
+}
   .project-description {
     width: 80%;
     p {
