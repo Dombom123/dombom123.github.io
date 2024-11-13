@@ -34,9 +34,10 @@
     }
     a {
       display: inline-block;
-      color: var(--color-primary);
+      color: var(--color-base-text); // Change from hardcoded color to variable
       text-decoration: none;
       &:hover {
+        color: var(--color-primary);
         text-decoration: underline;
       }
     }
