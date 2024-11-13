@@ -2,7 +2,7 @@
 layout: project
 title: "Buy Better"
 description: ""
-date: 2024-12-20
+date: 2024-12-23
 weight: 4
 thumbnail: "/assets/images/gen/projects/bb-l.jpg"
 image: "/assets/images/gen/projects/bb-l.jpg"

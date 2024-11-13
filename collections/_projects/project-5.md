@@ -2,7 +2,7 @@
 layout: project
 title: "TRU Doku"
 description: ""
-date: 2021-12-20
+date: 2021-12-24
 weight: 5
 thumbnail: "/assets/images/gen/projects/tg-1.png"
 image: "/assets/images/gen/projects/project-4-1.webp"
