@@ -17,6 +17,12 @@ body_classes: page-project
           </div>
         {% endif %}
 
+        {% if page.description %}
+      <div class="project-intro">
+        {{ page.description }}
+      </div>
+    {% endif %}
+
         {% if page.categories %}
           <div class="project-categories">
           {% include framework/blocks/components/categories-badges.html 

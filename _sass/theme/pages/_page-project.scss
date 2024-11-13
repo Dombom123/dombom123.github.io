@@ -11,6 +11,13 @@
       }
     }
   }
+  .project-intro {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    margin: 1rem 0 2rem 0;  // Space after title and before categories
+    color: var(--color-base-text-2);
+    max-width: 90%;  // Optional: prevents lines from getting too long
+  }
   .project-categories {
     margin-bottom: 40px;
     a {
