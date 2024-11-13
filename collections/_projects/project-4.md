@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Zauberey Halber"
-description: ""
+description: "Kurzer Dokumentarfilm zur Hexenverfolgung in Bernau, Berlin"
 date: 2021-12-20
 weight: 6
 thumbnail: "/assets/images/gen/projects/hex-5.webp"

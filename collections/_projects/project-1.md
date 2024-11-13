@@ -7,7 +7,7 @@ weight: 6
 thumbnail: "/assets/images/gen/projects/donner-1-5_thumb2.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: ["Kurzfilm"]
-client: "Narrative"
+client: "Abschlussfilm Berliner Hochschule für Technik"
 role: "Director of Photography"
 gallery:
   - image: "/assets/images/gen/projects/donner-2-1.webp"

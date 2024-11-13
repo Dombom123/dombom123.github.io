@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "TRU Doku"
-description: ""
+title: "TRU DOKU"
+description: "TRU DOKU erzählt Geschichten über junge Menschen, die uns Mut machen in schwierigen Zeiten. Menschen, die sich ihrem Schicksal stellen, Widerstände überwinden und sichtbar machen, was in unserer Welt oft im Verborgenen bleibt."
 date: 2023-03-14
 weight: 5
 thumbnail: "/assets/images/gen/projects/tg-1.webp"
