@@ -12,10 +12,10 @@ role: "Director of Photography"
 link: "https://www.youtube.com/watch?v=Sko-swjcS40"
 gallery:
   - image: "/assets/images/gen/projects/bb-1.webp"
-  - image: "/assets/images/gen/projects/bb-2.webp"
+  - image: "/assets/images/gen/projects/bb-5.webp"
   - image: "/assets/images/gen/projects/bb-3.webp"
   - image: "/assets/images/gen/projects/bb-4.webp"
-  - image: "/assets/images/gen/projects/bb-5.webp"
+  - image: "/assets/images/gen/projects/bb-7.webp"
   - image: "/assets/images/gen/projects/bb-6.webp"
 ---
 
