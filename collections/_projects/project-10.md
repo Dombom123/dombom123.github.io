@@ -7,8 +7,8 @@ weight: 2
 thumbnail: "/assets/images/gen/projects/bis-3.webp"
 image: "/assets/images/gen/projects/bis-3.webp"
 client: "Drive Beta x ZDF"
-categories: ["TV"]
-role: "Director of Photography // Studio-Moderation"
+categories: ["Doku-Serie"]
+role: "Director of Photography // Studio-Interviews"
 link: "https://www.ardmediathek.de/serie/bin-ich-schoen/staffel-1/Y3JpZDovL25kci5kZS80OTc1/1"
 gallery:
   - image: "/assets/images/gen/projects/bis-1.webp"

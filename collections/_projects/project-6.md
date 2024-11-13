@@ -7,7 +7,7 @@ weight: 4
 thumbnail: "/assets/images/gen/projects/bb-l.webp"
 image: "/assets/images/gen/projects/bb-l.webp"
 client: "Drive Beta x SWR"
-categories: ["TV"]
+categories: ["Online-Format"]
 role: "Director of Photography"
 link: "https://www.youtube.com/watch?v=Sko-swjcS40"
 gallery:

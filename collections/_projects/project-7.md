@@ -7,7 +7,7 @@ weight: 3
 thumbnail: "/assets/images/gen/projects/kk-l.webp"
 image: "/assets/images/gen/projects/kk-l.webp"
 client: "Drive Beta x DAK"
-categories: ["TV"]
+categories: ["Online-Format"]
 role: "Director of Photography"
 link: "https://www.youtube.com/watch?v=iPsKTsiC_LM"
 gallery:
