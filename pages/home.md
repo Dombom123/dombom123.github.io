@@ -10,12 +10,12 @@ subscribe: false
 projects:
   heading: ""
   sub_heading: ""
-  limit: 10
+  limit: 3
   sort: date # date | weight
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""
-  columns: 2 # 1 | 2 | 3 | 4
+  columns: 1 # 1 | 2 | 3 | 4
 
 # posts:
 #   heading: "Recent Blog Posts"
