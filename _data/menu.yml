@@ -18,7 +18,7 @@ main:
       - name: "Bin ich schön?"
         description: "Doku Serie"
         url: /projects/project-10/
-      - name: "Music Videos"
+      - name: "Musikvideos"
         description: ""
         url: /musicvideos/
   - name: Contact
@@ -35,7 +35,7 @@ footer_secondary:
     url: /projects/project-7/
   - name: "Bin ich schön?"
     url: /projects/project-10/
-  - name: "Music Videos"
+  - name: "Musikvideos"
     url: /musicvideos/
 
 # footer_secondary:
