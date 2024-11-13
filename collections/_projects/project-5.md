@@ -2,13 +2,14 @@
 layout: project
 title: "TRU Doku"
 description: ""
-date: 2021-12-24
+date: 2023-03-14
 weight: 5
 thumbnail: "/assets/images/gen/projects/tg-1.png"
 image: "/assets/images/gen/projects/project-4-1.webp"
 client: "Drive Beta x ZDF"
 categories: ["Documentary"]
 role: "Director of Photography"
+link: "https://www.youtube.com/watch?v=tUAuCEREjUs"
 gallery:
   - image: "/assets/images/gen/projects/tg-7.png"
   - image: "/assets/images/gen/projects/tg-2.png"

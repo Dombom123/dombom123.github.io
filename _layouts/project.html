@@ -42,6 +42,11 @@ body_classes: page-project
             <strong>Role </strong><span>{{ page.role }}</span>
           </div>
         {% endif %}
+        {% if page.link %}
+        <div class="project-link">
+          <strong>Link </strong><a href="{{ page.link }}" target="_blank" rel="noopener">View Project</a>
+        </div>
+      {% endif %}
 
       </div>
 
