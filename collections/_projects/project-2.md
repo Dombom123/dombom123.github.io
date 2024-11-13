@@ -9,6 +9,7 @@ image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Kurzfilm"]
 client: "Abschlussfilm Berliner Hochschule für Technik"
 role: "Director of Photography"
+link: "https://vimeo.com/694540020"
 gallery:
   - image: "/assets/images/gen/projects/dpm-2-1.webp"
   - image: "/assets/images/gen/projects/dpm-2-2.webp"
