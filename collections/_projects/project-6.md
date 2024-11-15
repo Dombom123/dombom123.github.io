@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Buy Better"
-description: "Junges Verbraucher-Format auf dem Martcheck-Kanal der ARD"
+description: "Junges Verbraucher-Format auf dem Martcheck-Kanal der ARD."
 date: 2024-11-07
 weight: 4
 thumbnail: "/assets/images/gen/projects/bb-l.webp"
