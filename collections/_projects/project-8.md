@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-top
 title: "Deutschland, warum bist du so?"
 description: "Eva Schulz begegnet Menschen in Thüringen, Sachsen & Brandenburg, die Journalisten aus dem Weg gehen. Ihre Aufgabe: Vorurteile hinterfragen und zuhören."
 date: 2024-08-17

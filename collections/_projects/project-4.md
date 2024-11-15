@@ -9,6 +9,7 @@ image: "/assets/images/gen/projects/project-4-1.webp"
 client: "Documentary"
 categories: ["Documentary"]
 role: "Director of Photography"
+link: "https://vimeo.com/1029936515?share=copy#t=0"
 gallery:
   - image: "/assets/images/gen/projects/hex-1.webp"
   - image: "/assets/images/gen/projects/hex-2.webp"

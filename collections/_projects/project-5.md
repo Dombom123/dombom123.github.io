@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-right
 title: "TRU DOKU: Gina"
 description: "TRU DOKU erzählt Geschichten über junge Menschen, die uns Mut machen in schwierigen Zeiten. Menschen, die sich ihrem Schicksal stellen, Widerstände überwinden und sichtbar machen, was in unserer Welt oft im Verborgenen bleibt."
 date: 2023-03-14

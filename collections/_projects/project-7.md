@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-left
 title: "Körper Krimi"
 description: "In diesem Format erzählt @drmedemilie spannende Krankheitsgeschichten und beleuchtet wichtige Gesundheitsthemen."
 date: 2024-10-04
